@@ -1,5 +1,5 @@
 # SIFT-OpenCV
 
-![Original]()
+![](gandalf.jpg)
 
-![With Key Points]()
+![](gandalf_with_keypoints.png)
