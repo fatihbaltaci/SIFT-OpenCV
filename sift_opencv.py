@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("gandalf.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread("gandalf.jpg")
 
 sift = cv2.xfeatures2d.SIFT_create()
 
