@@ -1,5 +1,11 @@
 # SIFT-OpenCV
 
+## Installation
+
+```
+pip install -r requirements.txt
+```
+
 ![](gandalf.jpg)
 *Original*
 
